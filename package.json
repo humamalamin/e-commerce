@@ -6,7 +6,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.0.0",
     "font-awesome": "^4.5.0",
-    "jquery": "^2.2.0",
+    "jquery": "^3.0.0",
     "laravel-elixir": "^4.0.0",
     "selectize": "^0.12.1",
     "sweetalert": "^1.1.3"
